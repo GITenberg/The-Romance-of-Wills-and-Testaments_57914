@@ -1,11 +1,16 @@
 _repo: The-Romance-of-Wills-and-Testaments_57914
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57914-h/images/cover.jpg
 creator:
   author:
     agent_name: Hall, Edgar Vine
     gutenberg_agent_id: '49683'
     url: http://www.gutenberg.org/2009/agents/49683
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57914#The-Romance-of-Wills-and-Testaments
 gutenberg_issued: '2018-09-16'
 gutenberg_type: Text
 identifiers:
